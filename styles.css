@@ -1,0 +1,73 @@
+.grey{
+    background-color: rgb(240, 232, 232);
+    margin:30px;
+}
+.white{
+    background-color: white;
+    padding:20px;
+    border:solid 2px black;
+}
+span{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+}
+.title{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.line{
+    width: 100%; /* Largeur totale de la page */
+    height: 1px; /* Épaisseur du trait */
+    background-color: black; /* Couleur du trait */
+    border: none; /* Pas de bordure */
+    margin:20px auto;
+ 
+}
+
+
+.center{
+    text-align: center;
+}
+.section_presentation{
+    background-color: rgb(240, 232, 232);
+    margin: 10px auto;
+    max-width: 800px;
+    padding:20px
+}
+li{
+    background-color: rgb(240, 232, 232);
+    margin: 3px auto;
+    max-width: 600px;
+    list-style-type: none;
+    border-radius: 20px;
+}
+a{
+    color: red;
+}
+.imgSerie{
+    border: solid 2px black;
+    padding: 10px;
+    margin : 10px auto;
+    width: 30% ;
+    font-size: 5px;
+}
+.text{
+    font-size: 30px;
+}
+
+.red{
+    color: red;
+    font-weight: bold;
+}
+
+.footer{
+    display:inline-block ;
+  border: solid 2px black;
+  background-color: rgb(240, 232, 232);
+  margin:30px auto;
+  width: 80%;
+  padding: 30px 50px 50px ;
+}
